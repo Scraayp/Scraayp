@@ -5,7 +5,7 @@
 
 - ☕ Currently Working on **[moderator (Spigot Moderation Plugin)](https://github.com/Scraayp/moderator-plugin)**
 
-- 🔒 Currently Working on **ranks (Spigot Ranks Plugin)**
+- 🔒 Currently Working on **[ranks (Spigot Ranks Plugin)](https://github.com/Scraayp/ranks-plugin)**
 
 - 📄 And more public/private repositories!
 
