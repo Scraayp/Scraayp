@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Scraayp</h1>
 <h3 align="center">A Furry Software Developer</h3>
 
+- ☕ Currently Working on **[Scraayp.ga (My Personal Website)](https://github.com/Scraayp/scraayp.ga/)**
+
+- ☕ Currently Working on **[moderator (Spigot Moderation Plugin)](https://github.com/Scraayp/moderator-plugin)**
+
+- 🔒 Currently Working on **ranks (Spigot Ranks Plugin)**
+
+- 📄 And more public/private repositories!
+
 - 🌱 I’m currently learning **React, Tailwind, Java and Typescript**
 
 - 📫 How to reach me **scraayp@gmail.com**
