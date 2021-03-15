@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Scraayp</h1>
 <h3 align="center">A Furry Software Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=scraayp" alt="scraayp" /></a> </p>
-
 
 - 🌱 I’m currently learning **React, Tailwind, Java and Typescript**
 
