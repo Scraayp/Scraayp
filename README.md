@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Scraayp</h1>
 <h3 align="center">A Furry Software Developer</h3>
 
-
 - 🌱 I’m currently learning **React, Tailwind, Java and Typescript**
 
 - 📫 How to reach me **scraayp@gmail.com**
@@ -10,7 +9,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/scraayp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="scraayp" height="30" width="40" /></a>
 <a href="https://twitter.com/scraayp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="scraayp" height="30" width="40" /></a>
+<a href="https://codesandbox.com/scraayp" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="scraayp" height="30" width="40" /></a>
 <a href="https://discord.gg/uW6FEwd" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="uW6FEwd" height="30" width="40" /></a>
 </p>
 
